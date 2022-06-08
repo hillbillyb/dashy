@@ -1,17 +1,13 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
-  navLinks:
-  - title: GitHub
-    path: https://github.com/Lissy93/dashy
-  - title: Documentation
-    path: https://dashy.to/docs
+  title: billyb
+  description: Welcome my dashy site!
+
 
 # Optional app settings and configuration
 appConfig:
-  theme: colorful
+  theme: material-dark
 
 # Main content - An array of sections, each containing an array of items
 sections:
@@ -50,3 +46,5 @@ sections:
 pages:
   - name: News
     path: news.yml
+  - name: Bookmarks
+    path: bookmarks.yml
