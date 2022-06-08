@@ -12,5 +12,33 @@ sections:
   - title: Blog | Daniel Miessler
     icon: favicon
     url: https://danielmiessler.com/blog/
-      
-   
+  - title: Security News | CSO
+    url: https://www.csoonline.com/news/
+    icon: favicon
+  - title: Dark Reading | Security | Protect The Business - ...
+    url: https://www.darkreading.com/  
+    icon: favicon
+  - title: Adam Shostack & friends
+    url: https://adam.shostack.org/blog/
+    icon: favicon
+  - title: News - Cybersecurity Insiders
+    url: https://www.cybersecurity-insiders.com/
+    icon: favicon
+  - title: The Last Watchdog | on Internet security by Byron Acohido
+    url: https://www.lastwatchdog.com/
+    icon: favicon
+  - title: Graham Cluley
+    url: https://www.grahamcluley.com/page/2/
+    icon: favicon
+  - title: Help Net Security - Information Security News
+    url: https://www.helpnetsecurity.com/
+    icon: favicon
+  - title: Krebs on Security
+    url: https://krebsonsecurity.com/
+    icon: favicon
+  - title: SC Media
+    url: https://www.scmagazine.com/
+    icon: favicon
+  - title: Security Magazine
+    url: https://www.securitymagazine.com/
+    icon: favicon
