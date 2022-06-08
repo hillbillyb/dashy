@@ -1,0 +1,56 @@
+pageInfo:                                                                                                            
+  - title: News                                                                                                        
+  description: ''                                                                                                    
+  navLinks:                                                                                                          
+    - - title: Home                                                                                                    
+      path: http://10.123.96.37:9999/                                                                                
+      target: newtab                                                                                                 
+sections:  
+  - name: Cyber News
+    icon: favicon
+    displayData:
+      rows: 2
+    items:
+    - title: Blog | Daniel Miessler
+      url: https://danielmiessler.com/blog/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABTUlEQVQ4jWP8//8/AymAiSTV6Bq+/fgDZ3//+Qdi+b9//3/8+otQ9B8G6mecYTKZldh4YP6mm02zz7JZzHHO2PL95x/d8NU8tvNOXH4JUcYC17n/zLP/DAybDz288/jT01dff//5d+Tii6evvl65+56BgeHU1dfmOmIoNuw8/pjRZNaOY4/+////4s03Xtt5dTPO/P//f+baa8X9xz99/YVug5wEDwMDg4IULwMDg7gwJycHi7wkDwMDQ1qQJvVCicYaHr/8wsDA8PD5FwYGhudvvn378efek0/vP/2cvuZaUd/xz19/Q5QxwpOGfdrmw+dfWOqKHZ3nXzrxRO+Sy8gGTyyxzA3XQbHB3kiSgYHBDkIaSrKxMlnqipfG6mkrCfJwslroiEPV/UcCn2GB/f///+8///z79/////9///778esPXBzhJJI9TSQAAGc+0fCImbTkAAAAAElFTkSuQmCC
+  
+    - title: Security News | CSO
+      url: https://www.csoonline.com/news/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB8UlEQVQ4jZ2ST0iTcRzGP9/fu5Gy5nIry4xZAxth2Bg1SJCCQETXPzDMtIsQhF2K6tSlLtKliKgdylNQELx6KHYLqtPEyo6BVBjRIlYhb20u3+39dbCtl+wP7YHv5fl9nwd+z/cRRtN3gH7Ay//BBkxVo5gfmn5Vo7hq4vktLcBiGWwHDAFDgVeBXr5aMbBA3wVZALZQLMc6IqvWdLWFeJ3L8ypXYDb7BTxGBvQUaC8iR9AEFZBGy2GgBfRKUn3d2yOBN6f3bCLzLMvYvigHY2vhc+ESOOdAdoFsQKse0KYi1ZcEukF6QUY4Onk53OTPd0aCvC+U6L02zQdrMYc5cBbkNug4cADKe0klDykAlO6ofsq/4tRk5m3X07l5sld7GNsfxZx+95zd131AsyuoGMCSgWa+ypcdouFAfnB8hviFx7Svb+DBmZ0hHp0o/pLfVwCD4/db8OgnICOAwafCxRvH4sVEpHHzrYkXzJUdNobq101MtZqEgwA7AHDkJInBZoPEUBZHXiLGFdAPKdGaF4aTW5tobwuyLRzg/L1ZsUL+AYRxhBlEmUAnwk1hNF257gLgAD408K1EQ2MdVt4GR7t78BHwAfXuHlAhqkWq82AVSqBkaX6WaLU7CLW8Wy7IX1+rBva/1/4IWwFmjSY2YH4H6OWYQiVW4acAAAAASUVORK5CYII=
+  
+    - title: Dark Reading | Security | Protect The Business - ...
+      url: https://www.darkreading.com/  
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA00lEQVQ4jeWQoQqEUBBFZxcEjYLhdYtNMFgMFv0ADRaL9X2C2aDZ7L8IRhGzQVCD8IKCmkxvNixs2BW27540Yc4d5gL8IbfXpGkaIQQAGGNd1+m6LssyAAzDME3ThUopRcQsy/q+T5IkTdNt2/I8P8/zGfSOYRiIKElSEATHcXiexxjzfX/fd0VRXmv3T5NzLggCAIiiGEVR0zTLslxcCMMQESmlbdsWRRHH8bqutm1zzl3XvXjasixVVQFgnueyLB3HIYRUVWWa5jiOdV1/qe+XeQBFYVkbOh4eTAAAAABJRU5ErkJggg==
+  
+    - title: Adam Shostack & friends
+      url: https://adam.shostack.org/blog/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACSElEQVQ4jT2SO28TURCFz9y9965t4jUsFrGJhQEBkZKAAAkCtGkoePwEGqDi9wAlUKaDxgVI0CI5QYkih1cCITESsSMsx/Hau3tnKBw81Wh0Zr5zpCERAQBg1BBRr9frdDrW2jAMtdbjuYgQETEz/hczLy0tdbvdTCZjjDHGhGFYrVYPpUQA9HiHiGq12traWhAEpVIJQBAEALTWlUplfFeNiEqpRqNRq9Xa7fbMzMzCwsL8/Hyz2azX661Wq9/vjy3BOeecY+bnz57eunnj1csXIiLMIjKI+o8fPbx/7+7qygozp2nKzGrkDET11cb6xvbclesCOCIH+JnsmemLb2rvvv7YHhFERGMUSCQ42KlQy7bXk+04SWIR9n1TSrcuZCLb2TzMDRC7BKS7y6+7i08QFk3xmDla8MKiDkteNuTYT3sxb33Usw/yc7eFUwUBkXSb30QSz7fCDD+vw7O2fM0LzomLMNgQt3uwtyMiEGgQiZBAMZNzbExB5U4Jh/HuZx78iv/85oEjx+wEgBBpARSBOFae0kHZlub0RDH9+4nsUGVyys/DRQAJOyKCiCKIAEiHOpi0U5fJ5qLN9y5qK5MlUsD/P+BkhFAkJAADZuqSyhWj7x846YsYlyQucZywcywAOBUABA0CAM/TEyeq0c+3Fl1bOKkL1hzPk9UJxem+YMhxGgEgEi0AAVG2/GV5kWjoBWW153sD5e0n8BwfKI50vKtzs5MEiJAWkAKCq3fa+fNK+2CGCETEORDREQIRn0Z5epoAhvoH3PJMaXSvYfgAAAAASUVORK5CYII=
+    
+    - title: News - Cybersecurity Insiders
+      url: https://www.cybersecurity-insiders.com/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6klEQVQ4jcWSvWtUQRTFz7kzL4sLfgQNaOxWSGEhNjYh0YhaJF2K9S+Q2ImgjY1M0gTFIAgRVBCDlU/tRDCFu2zsFLRQBBXBgEgiu2KK59t9b+ZaLKvrYmI6fzDFmXvm3stwgN8QG8Ous6HpXw02/eAPyuWy6T/+UQa/bFXnqvnfTXHZdCY5B4nbWtpVJz2DZf0NFASh3Vc3XkxFK9/eTCLnrovjz663beCvrnEcm9nKyNi12vgACJ2vTOy+XBs94tyYBYDV769nbcHfM8V8fubx6FkAOOpgpLPFu51Xr0ghVOpJ/cHt2oWBr2n9kVpftSOtaQBgkINZghAyeEAOAUDVwQsAdU4FisOtRKGe+xMsH8i9DmUpoKrDgBoffJEEFTA0edT+FlDgIMBJ6z0+mYg5BavNZtqgoEHRPARZgaMKZQGiDAE5Au44B5naAyNwCM7db0koPNmyXaxY8/bciYcvrTGviv1i6c0iHAK83aaKnEAuUlDnEG6eRsa5pYmh9MfapGd23kT2OXK7lGXNEm04pd7Efbb41PvkGCzKBEEBmqn3IrJgxNzlzOLwLduHUpbKZyZ752TH8hmS+7IU7wssXcqiD9PwHAyBawSUhKpKRBOKABo9QUInSN16E2hPztfXhILaW/+v/AQbo8rN1JcnngAAAABJRU5ErkJggg==
+  
+    - title: The Last Watchdog | on Internet security by Byron Acohido
+      url: https://www.lastwatchdog.com/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADl0lEQVQ4jWXTXUybZRiH8f/9vP0YpQgUXG0pTBjdgCIYwelQRtGAkqjbDjyYIWwyFGV4aPzKkjceaTQaiGwsg6gDWYgJZrAaICibg0WmbExhlRXEAaUVwkdhsH7Q5/Zgnhiv89/hRbgfsQoiFRL15555pyL/+B6zsYTAFmJiCSx4FgKDH/WMtqDltSusQpAKBsAEAAwIQqaxuqvz00MOW7UvsKX8OuWFZ3mDAcCeFEeFu62wJRgi347ONH/1yv53WUWQVEhiVRWkjhjf7/vkYlleevF7bQPy5z/9EkQCioYAANsRBiCfSDeLppoK8c2V8f7PDxUcZlUNEgBUnb/aeqQot/poQ1docVtq9TE60jGwEYyACEg06LF2N4jDj+7i9ipnRGqE/sjZH7/ofv3ZtxRj3ZnShsrSzyw7EH0q06JJjNXT7NI6Pn6xECeKs6iycDfZEgw0+IeXaw9ki6fTd2q0UsrkhLiC86u2H0RV2WO1IBL2JCMqHDZyjc/xwtomfdg/RkUZZi7PSkGf28uQoKbhSXk3FOGle2EZBjRvHHyyVuxLSy45PTDG3/02K7RCoGSPhcDEs4sb/PU1D0UloyzLShAgz9wyddyYwVYoInrGpjk/LblEaAR23vStoHtijgDQwdw0QDBBgFzjc1AE4SVHKnQGPRMzbvkDGLmzRKMzf0OryBQhpUSsXovuiXlshre5fK8VqQ/GM8LbSDMZEY5K5FlN2GczEYcinJpoQPfEPIKSWYAgmBRfjsWEgH+Ve91exOm15MwwE3RatsYbcHrIDY0iuDwnlaHRUIbJiJ7xWc5LSaYohFe4fauD++0phKiUnTdnAADle61ckJpEi5tBbvzJzQCo3G6BI9OM5a0w1v0B6cxJo1vzy5eV2w88vljpdFRNrGxg2OOjugPZeNhkBCmEXreXJu4s0Qv5u/gRqwlJxh1ov+ZhnTGGX85PlydbB+rFYnPN8IXR6TNNR5/TiPB2pHloks1xMeR4KBFj8ysshMId12cQo1Uo1xzPbu9q5NSx5zVdo1PNK1+euApWVQEgVu37vf/iX+tc3zkcjTKHK9suS1SfiqKuRRrfbosG7oUilzy+6IXpNf7AdaMfQOy/FmAVAoDhzc5fGr+f9IfXJfNJ13UubXBFS5t6ZU3HEE+thXjgtj98rH248T6GAAD63841Z4tfdWYfL7JbnDoFKQBDQnhHPP5Lza6xVrTX/WfnfwDAH67Nq0nPyQAAAABJRU5ErkJggg==
+  
+    - title: Graham Cluley
+      url: https://www.grahamcluley.com/page/2/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADVklEQVQ4jV2TS0grdxjFv+8/mTzGDJIExCE2umqKcStyF3dhaaJTReimuwhdFlHo7lJSGrBCH8tiF+1KsUWsgqApPiImIEJ8xBeCeheKiQpRMYk1mSST7+viarntb3k4nMXhHIRnotGoiEajBACwsLDwkaIorwCgiZmtAHBGROlQKPT2/158X4jFYl2qqn4ty/LHdrvdabfbARGhVCpBpVL5u1arLefz+R8GBga2mVkgIiEzIyLy8vLyl6qq/uzxeCTTNEEIQYjIzMwAIDEzSpIE9/f3pUKh8JWu678yMyIAwNLS0qCmaRNut5tkWa5Xq1VLqVSCer0OiAhEBA6HAxoaGkwisuRyOcxms5/39/f/iXNzc62apu1pmta4vr7OJycnQtM06O7uBqfTiYZhgKIovLe3B6lUCjVNM/v6+qR8Pp/LZDJdkEgkfjw9PeVQKFSVJIkDgQDZbDZqaWmheDxOmUyGhoaGSAhB7e3tZLPZKBAI1La2tjiZTP4kmpqaPpuenuaVlRVpamqK4/E4xmIx9Pl88PDwgMfHxzA+Pg6RSAQSiQRMTEygJEmYzWZZVdVPcH9/n0ZGRqBYLEIsFoPz83PI5XJAROj3+3lmZgbHxsZgd3cXFEUBRGREhHq9Dnd3d2XL8wzQYrGw3W6Hzc1NHB0d5XK5zMPDw+zxeEAIAUIIME0ThRBQr9dBCAGIqAhZlq86Ozt5Z2eH0+k0hsNhTiaT3NjYiLe3txwIBNg0TUylUtza2spnZ2eo6zofHByAoihvIZlM/n54eMiBQKCqqirpuk5+v58kSeJIJEI3Nzek6zrLsky9vb3kdrvJ5/PVtre3eWNj4zdcXFx83dzcvOZwOMTs7CweHR0Jl8sFPT093NHRgUQEiMjz8/OYTqfB6/VSOBwGAKhfXl6+QgCA1dXVaFtb27dOp7MmhBBEJMrlMhiG8XIVUFUVrFYrAQAVi0X54uLim2Aw+J0UjUZFJpNJulyuJiFEl2EYolQqsWma9FwUAwAZhoGVSkUqFArS9fX1L8Fg8M2/U35hbW3tC0VR3lit1g9VVYV3N3jH09MTVKvVo8fHx++DweAfL/p/AgAAJicnG7xe76eSJL0GgA8AAIjokpk3rq6u/hocHHx63/8P0uuyzDasohYAAAAASUVORK5CYII=
+  
+    - title: Help Net Security - Information Security News
+      url: https://www.helpnetsecurity.com/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB1klEQVQ4jX2SO26UQRCEv+qZfdjCMiA7IwKJgAgyMg4AEufhEJwAOSCFCI5AQEjAQwIJkSEEkR/A7v7/P10Eu6wXy7ii1khdU1Vd8mu2+unoJh2VikdcjB4giBH6/fxz90l+w63G5IXQFeMG0sUUThWNc/D7w9nifu08riXYjxG7DMDmusGcUtrLN00ge67u7UHFnWHSk86WNkIgsCmhENCaEwlsgx2NgjzQcEVjgYIkAOPlXwpFpr8arNA1p3OpT5IlQBQUG2pPR3uIbbeUn9o+iG037OG8ROrfYenTLqFgqjE7gp9MCIkdSkkKC2iD22bOa4JMiCK15Itm+ZLfsVPhVWtu+Y0DlCc4HqjqBnmOgpUMyXls8UGwTcnvOfRZYvLW5pfT90qJf868JoiA1ttRdDtGesKuGH7EY42mXezziKOAHobBWaen2a0JbCDsTMyCocwo2CfgBTO1tnADqoTxORksM5RWB6meI9BDrPTcsdHQMxbcGU+SILHNsjtkZ9eqOwCtY1UkDGkE2EnDVTEKxBZjRYlNfq3LUSYrzwYsGAvmTCmoZuvnKuN3nnu3mTwrcRMBTtsFagk+siDlZxSuc+loRuwOmMv/W1/hEKiIEU13Of4Dnlr41+b7EVwAAAAASUVORK5CYII=
+  
+    - title: Krebs on Security
+      url: https://krebsonsecurity.com/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVQ4je2R0QnAIAxEr10lS7hIJvHHFZzFRfy4FZzF/oSitLYF6UehD4KE5C4HAj/TLBez+nBvElWtdq0t3PTVdFhFZGhOEhjE73QhhGGCnPMhge33tCYku9dMTsVdPJI1xggRQSkFKSWo6t577+Gce/FHvskGnQtILw1VPLkAAAAASUVORK5CYII=
+  
+    - title: SC Media
+      url: https://www.scmagazine.com/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADB0lEQVQ4jWWTyWvdVRTHP+fe+4bmaQarCWSy0WfyiIpDEzTUtyj9AyoiiFDIxmzEAalUVBRFoVlERAPitgiCCxVBEUQpJA4IxgFqizXDa7CpqUnea9Lk/aZ7j4vUWvGz/p6zOJ/vEQAFEVCA1Z7yWA4dR6QaVG4GMKLnUJ1NkRNd5+e/u3ZGuMISFNt7ysfF2seLxuRjVXwIoIoVQ8EaItVEVN/ZWI6fH6AWAdhXwJyEonaXP+5w7sjO1pYkl7e9RtHu5lyO0GxqsrnpNYptuzKmbW5k8nLpI2EzCMBa721v7VV5aiNLEnvgfmf6eg1pqv70GcIvpzD778bePiykafBLtaz99Nn8epq8fePKwtOs9pTHGr2Daf2m/qz53vteVTXoLs0vvtRLR4+pj2P9h5AmvnHHaFbvGkhXeypjzhmZKMaxaw4PZcUjj9r01K+6/fqkSGsrGkVcP3UcAbZeeBk9f0GlVBJf3wwl51wgm3AiUo0zr9LWZhTQECT8voj/cQ5XrWI7O4lmZomn30WMFQC5rmQSY1SUqtOg/VmxIMz9TDr7tearD0jH3DfEX53ELyygqmhtGfJ5pK0V8UHVe0lVBaHfgYIxaJaxPfEE8UOHKTz8IIVDB+HQQVBFrQGuNOWq+F0MSi2Hqlir4Y8ViSanaOw/wM6b0+A9Ath9+yBL0fUNQr0hqGpORFFqDmUmjwym1vrCY+OCc/gLf4qrDCHWoij5+0YoHnsGXaqplEokH34a8gSXKjOs9Q2O1rtvTRr9lSxbW/uvxs8+183nXlS/vf2vxjj2lyr3ZvWugWStb3BUANZ7ylM3IEcbfd2JqQw5WvYYLv6l2bffozs72OEK5q47Be9DWFzK2s8u5Dey7I29KwvPioKBcq7eywcdqT9cbzY1aPA4Z6SlRbAWmk3VKApGxHYUilLP5T7pWOGRV5lPr970B8jd0j/0miBP7hFpSTWQhQCAEyFnLE3VHUWnF5d/e2kEUv4vBS52l++xouMGqQbYfWc4F9BZr3Kic2X+p2vzfwPPP68hBLIp+AAAAABJRU5ErkJggg==
+  
+    - title: Security Magazine
+      url: https://www.securitymagazine.com/
+      icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJElEQVQ4jWNkwAKez1qg/X7fnr4fT585Mvz7z8wqInyF19KiQqGiZDu6WiZ0gf///7O/37en+svlqy5MHBynmfl5932/d0/944GDzS/37BEnaMCrlStlvj98ZM8qInpFur4qVG/rRn9OJeXtv16+1Pl55oI6QQN+P3/L+//XLx4mLs7nItbWbxgZGb8xcXM8Yvj7j+33xw98BA1gEOL5xsjC8uP/zx9in8+e5WNgYGBg4uT5w8zL+4eFiwtDOYYB0u7uT1lFRC/+evVa/+WSleEMDAwMAtamc4XcXAI59LRPY5iADdyvaQg4Y2z58ay5zcv7dY3+RGlCBv///2e+lZNXclrf5Ps5K4dHDxpbPckxhO1mZl7laX2T7+dsne4/6uixI0rjq6tXeV4fOiT5/9gxzv///7PdTM+uO6Vj+Oeil9+Rz9u2iaKrxwjET4uWRz9r7zl8f9ceX0ZGxl9qhbn9nIpKO38+eWr59ugJG4IG/H75Qvjno8fKv9++5WdgYGBg1ND4zCYttY/h3z+m76/eKBM0gImF6R8DIwMDw18GdrgYE9N3BgZGBsZ//zDVowsw8wk+Y2BgZPj94rn91yNHpD49eSL8880rcwZGRgZWEaEn6OpZ0AU4TQ32s9+4durbjVtBNyvr9RiZmX79fvNWnV1G+qyAgdlhdPWM6AIMDAwMjyZPNvly7HTVr5cvrf4zMDCziYieEbA0b5EuzD2KrhYA4xHY2ZgJRHYAAAAASUVORK5CYII=
