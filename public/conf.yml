@@ -45,3 +45,8 @@ sections:
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
   
+
+# Additional Pages
+pages:
+  - name: News
+    path: news.yml
