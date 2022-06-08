@@ -1,16 +1,16 @@
 pageInfo:                                                                                                            
-  - title: Bookmarks                                                                                                        
+  title: Bookmarks                                                                                                        
   description: Links to the Internets                                                                                                   
   navLinks:                                                                                                          
     - title: Home                                                                                                    
       path: https://billyb.netlify.app                                                                                
       target: sametab                                                                                                 
 sections:  
-  - name: Cyber News
+- name: Cyber News
+  icon: favicon
+  items:
+  - title: Blog | Daniel Miessler
     icon: favicon
-    items:
-    - title: Blog | Daniel Miessler
-      icon: favicon
-      url: https://danielmiessler.com/blog/
+    url: https://danielmiessler.com/blog/
       
    
