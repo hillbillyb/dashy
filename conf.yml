@@ -1,0 +1,43 @@
+---
+# Page meta info, like heading, footer text and nav links
+pageInfo:
+  title: billyb
+  description: Welcome my dashy site!
+
+
+# Optional app settings and configuration
+appConfig:
+  theme: material-dark
+
+# Main content - An array of sections, each containing an array of items
+sections:
+- name: Today
+  icon: far fa-smile-beam
+  displayData:
+    collapsed: false
+    hideForGuests: false
+  widgets:
+  - type: clock
+  - type: weather
+    options:
+      apiKey: efdbade728b37086877a5e83442004db
+      city: Boston
+      units: imperial
+  - type: crypto-watch-list
+    options:
+      currency: GBP
+      sortBy: marketCap
+      assets:
+      - bitcoin
+      - ethereum
+      - monero
+      - solana
+      - polkadot
+  
+
+# Additional Pages
+pages:
+  - name: News
+    path: news.yml
+  - name: Bookmarks
+    path: bookmarks.yml

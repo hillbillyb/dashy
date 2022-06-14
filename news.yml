@@ -1,0 +1,33 @@
+pageInfo:                                                                                                            
+  title: News                                                                                                        
+  description: ''                                                                                                    
+  navLinks:                                                                                                          
+    - title: Home                                                                                                    
+      path: https://billyb.netlify.app                                                                               
+      target: sametab                                                                                                 
+sections:                                                                                                            
+- name: Cyber News                                                                                                 
+  icon: fad fa-newspaper                                                                                           
+  displayData:                                                                                                     
+    rows: 2 
+    collapsed: true                                                                                                       
+  widgets:                                                                                                         
+    - type: rss-feed                                                                                               
+      options:                                                                                                     
+        rssUrl: https://feeds.feedburner.com/TheHackersNews                                                        
+        apiKey: mpkmejo4nrhidejby0ggledbeg4oqrmsf5aaxxyh
+        limit: 10                                                           
+      id: 0_946_rssfeed                                                                                            
+- name: Krebs on Security                                                                                          
+  icon: fad fa-newspaper                                                                                           
+  displayData:                                                                                                     
+    rows: 2
+    collapsed: true                                                                                                        
+  widgets:                                                                                                         
+    - type: rss-feed                                                                                               
+      options:                                                                                                     
+        rssUrl: https://krebsonsecurity.com/feed/                                                                  
+        apiKey: mpkmejo4nrhidejby0ggledbeg4oqrmsf5aaxxyh
+        limit: 10                                                           
+      id: 0_1644_rssfeed                                                                                           
+  
