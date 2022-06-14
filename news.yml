@@ -16,7 +16,7 @@ sections:
       options:                                                                                                     
         rssUrl: https://feeds.feedburner.com/TheHackersNews                                                        
         apiKey: mpkmejo4nrhidejby0ggledbeg4oqrmsf5aaxxyh
-        limit: 10                                                           
+        limit: 5                                                           
       id: 0_946_rssfeed                                                                                            
 - name: Krebs on Security                                                                                          
   icon: fad fa-newspaper                                                                                           
@@ -28,6 +28,6 @@ sections:
       options:                                                                                                     
         rssUrl: https://krebsonsecurity.com/feed/                                                                  
         apiKey: mpkmejo4nrhidejby0ggledbeg4oqrmsf5aaxxyh
-        limit: 10                                                           
+        limit: 5                                                          
       id: 0_1644_rssfeed                                                                                           
   
