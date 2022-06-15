@@ -60,11 +60,18 @@ sections:
     collapsed: false
     hideForGuests: false
   widgets:
-  - type: MicroVision
+  - type: stock-price-chart
     options: 
       apiKey: 167UJ1OB10ZHVV4Y
       stock: MVIS
-      
+  - type: stock-price-chart
+    options: 
+      apiKey: 167UJ1OB10ZHVV4Y
+      stock: TSLA
+  - type: stock-price-chart
+    options: 
+      apiKey: 167UJ1OB10ZHVV4Y
+      stock: HYSR    
       
 
 # Additional Pages
