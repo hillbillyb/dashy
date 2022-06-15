@@ -44,6 +44,3 @@ pages:
     path: news.yml
   - name: Bookmarks
     path: bookmarks.yml
-
-
-    http://api.openweathermap.org/geo/1.0/direct?q={Stoneham},{ma},{us}&limit={limit}&appid={bf2661c22224a3b2a080c72e7d8a8b00}
