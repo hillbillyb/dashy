@@ -8,7 +8,7 @@ pageInfo:
 # Optional app settings and configuration
 appConfig:
   theme: material-dark
-  backgroundImg: /2400-abstract-futuristic.jpg
+  backgroundImg: ../2400-abstract-futuristic.jpg
 
 # Main content - An array of sections, each containing an array of items
 sections:
