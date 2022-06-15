@@ -29,7 +29,7 @@ sections:
       apiKey: bf2661c22224a3b2a080c72e7d8a8b00
       city: Somerville
       units: imperial
-  - type: weather-forcast
+  - type: weather-forecast
     options:
       city: Stoneham
       numDays: 6
