@@ -24,17 +24,13 @@ sections:
   - type: clock
     options:
       customCityName: Boston
+      
   - type: weather
     options:
       apiKey: bf2661c22224a3b2a080c72e7d8a8b00
       city: Somerville
       units: imperial
-  - type: weather-forecast
-    options:
-      city: Stoneham
-      numDays: 5
-      apiKey: 547a25b3d1fedb8eb7b5538e671482b2
-      units: imperial
+
   - type: crypto-watch-list
     options:
       currency: USD
@@ -45,6 +41,7 @@ sections:
       - monero
       - solana
       - polkadot
+      
 - name: Public Holidays
   icon: favicon
   displayData:
@@ -56,6 +53,18 @@ sections:
       country: US
       holidayType: all
       monthsToShow: 6
+     
+- name: Stocks
+  icon: favicon
+  displayData:
+    collapsed: false
+    hideForGuests: false
+  widgets:
+  - type: MicroVision
+    options: 
+      apiKey: 167UJ1OB10ZHVV4Y
+      stock: MVIS
+      
       
 
 # Additional Pages
