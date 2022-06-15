@@ -8,6 +8,7 @@ pageInfo:
 # Optional app settings and configuration
 appConfig:
   theme: material-dark
+  backgroundImg: /2400-abstract-futuristic.jpg
 
 # Main content - An array of sections, each containing an array of items
 sections:
@@ -18,13 +19,16 @@ sections:
     hideForGuests: false
   widgets:
   - type: clock
+    options:
+      costomCityName: Boston
   - type: weather
     options:
-      apiKey: efdbade728b37086877a5e83442004db
-      city: London
+      apiKey: bf2661c22224a3b2a080c72e7d8a8b00
+      city: Boston
+      units: imperial
   - type: crypto-watch-list
     options:
-      currency: GBP
+      currency: USD
       sortBy: marketCap
       assets:
       - bitcoin
@@ -40,3 +44,6 @@ pages:
     path: news.yml
   - name: Bookmarks
     path: bookmarks.yml
+
+
+    http://api.openweathermap.org/geo/1.0/direct?q={Stoneham},{ma},{us}&limit={limit}&appid={bf2661c22224a3b2a080c72e7d8a8b00}
