@@ -29,6 +29,12 @@ sections:
       apiKey: bf2661c22224a3b2a080c72e7d8a8b00
       city: Somerville
       units: imperial
+  - type: weather-forcast
+    options:
+      city: Stoneham
+      numDays: 6
+      apiKey: bf2661c22224a3b2a080c72e7d8a8b00
+      units: imperial
   - type: crypto-watch-list
     options:
       currency: USD
@@ -39,7 +45,19 @@ sections:
       - monero
       - solana
       - polkadot
-  
+sections:
+- name: Public Holidays
+  icon: favicon
+  displayData:
+    collapsed: false
+    hideForGuests: false
+  widgets:
+  - type: public-holidays
+    options:
+      country: US
+      holidayType: all
+      monthsToShow: 6
+      
 
 # Additional Pages
 pages:
