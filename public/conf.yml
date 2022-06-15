@@ -33,7 +33,7 @@ sections:
     options:
       city: Stoneham
       numDays: 6
-      apiKey: bf2661c22224a3b2a080c72e7d8a8b00
+      apiKey: 547a25b3d1fedb8eb7b5538e671482b2
       units: imperial
   - type: crypto-watch-list
     options:
