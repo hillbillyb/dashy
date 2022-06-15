@@ -9,6 +9,9 @@ pageInfo:
 appConfig:
   theme: material-dark
   backgroundImg: 2400-abstract-futuristic.jpg
+  itemsize: small
+  iconsize: small
+  hideComponents: settings
 
 # Main content - An array of sections, each containing an array of items
 sections:
@@ -20,11 +23,11 @@ sections:
   widgets:
   - type: clock
     options:
-      costomCityName: Boston (US)
+      costumCityName: Boston
   - type: weather
     options:
       apiKey: bf2661c22224a3b2a080c72e7d8a8b00
-      city: Boston
+      city: Boston(US)
       units: imperial
   - type: crypto-watch-list
     options:
