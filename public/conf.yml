@@ -45,7 +45,6 @@ sections:
       - monero
       - solana
       - polkadot
-sections:
 - name: Public Holidays
   icon: favicon
   displayData:
