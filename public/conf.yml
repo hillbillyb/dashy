@@ -32,7 +32,7 @@ sections:
   - type: weather-forecast
     options:
       city: Stoneham
-      numDays: 6
+      numDays: 5
       apiKey: 547a25b3d1fedb8eb7b5538e671482b2
       units: imperial
   - type: crypto-watch-list
