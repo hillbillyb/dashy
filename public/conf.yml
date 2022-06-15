@@ -23,7 +23,7 @@ sections:
   widgets:
   - type: clock
     options:
-      costumCityName: Boston
+      customCityName: Boston
   - type: weather
     options:
       apiKey: bf2661c22224a3b2a080c72e7d8a8b00
