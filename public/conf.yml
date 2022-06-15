@@ -4,7 +4,6 @@ pageInfo:
   title: billyb
   description: Welcome my dashy site!
 
-
 # Optional app settings and configuration
 appConfig:
   theme: material-dark
@@ -64,16 +63,13 @@ sections:
     options: 
       apiKey: 167UJ1OB10ZHVV4Y
       stock: MVIS
+      chartHeight: 200
   - type: stock-price-chart
     options: 
       apiKey: 167UJ1OB10ZHVV4Y
       stock: TSLA
-  - type: stock-price-chart
-    options: 
-      apiKey: 167UJ1OB10ZHVV4Y
-      stock: HYSR    
+      chartHeight: 200
       
-
 # Additional Pages
 pages:
   - name: News
