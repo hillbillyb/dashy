@@ -94,8 +94,54 @@ sections:
     url: https://hunter.io/
     icon: favicon
      
-     
-     
+- name: Attack Maps
+  icon: favicon
+  displayData:
+    itemSize: small
+    sectionLayout: grid
+    itemCountX: 2  
+    
+  items:
+  - title: Check Point
+    description: Live Cyber Threat Map 
+    url: https://threatmap.checkpoint.com/
+    icon: favicon
+  - title: Akamai ES
+    description: Real-Time Internet Monitor
+    url: https://www.akamai.com/es/es/resources/visualizing-akamai/real-time-web-monitor.jsp?tab=attacks&theme=dark&type=fullscreen
+    icon: favicon
+  - title: MAP Kaspersky 
+    description: Cyberthreat real-time map
+    icon: favicon
+    url: https://cybermap.kaspersky.com/
+  - title: Fortinet Threat Map
+    url: https://threatmap.fortiguard.com/
+    icon: favicon
+  - title: FireEye 
+    description: Cyber Threat Map
+    url: https://www.fireeye.com/cyber-map/threat-map.html
+    icon: favicon
+  - title: Bitdefender Threat Map
+    url: https://threatmap.bitdefender.com/
+    icon: favicon
+  - title: SonicWall Security Center
+    url: https://securitycenter.sonicwall.com/m/page/worldwide-attacks
+    icon: favicon
+  - title: Digital Attack Map
+    url: https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18207&view=map
+    icon: favicon
+  - title: Internet Outages Map
+    url: https://www.thousandeyes.com/outages/
+    icon: favicon
+  
+    
+                    
+    
+    
+    
+    
+    
+   
      
      
      
