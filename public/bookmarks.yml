@@ -13,6 +13,9 @@ sections:
     itemSize: small
     sectionLayout: grid
     itemCountX: 2
+    cols: 2
+    collapsed: true
+    cutToHeight: true
     
   items:
   - title: Daniel Miessler
