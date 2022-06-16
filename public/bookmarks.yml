@@ -50,46 +50,46 @@ sections:
     description:  Cybersecurity News and Analysis
     url: https://thehackernews.com/
     icon: favicon
- sections:  
- - name: Cyber Tools
-   icon: favicon
-   displayData:
-     itemSize: small
-     sectionLayout: grid
-     itemCountX: 2
-   items:
-   - title: ATT&CK™ Navigator
-     url: https://mitre-attack.github.io/attack-navigator/enterprise/  
-     icon: favicon
-   - title: Browserling
-     description: Live interactive cross-browser testing
-     url: https://www.browserling.com/     
-   - title: Whois Lookup
-     description: Domain Availability & IP Search - DomainTools
-     url: http://whois.domaintools.com/
-     icon: favicon
-   - title: VirusTotal
-     url: https://www.virustotal.com/#/home/upload
-     icon: favicon
-   - title: Image-Maps.com
-     description: Online URL Encoder & Decoder Tool 
-     url: http://www.image-maps.com/tools/url-encoder-and-decoder/  
-     icon: favicon
-   - title: Hybrid Analysis
-     url: https://www.hybrid-analysis.com/
-     icon: favicon
-   - title: urlscan.io
-     description: URL and website scanner
-     url: https://urlscan.io/
-     icon: favicon
-   - title: NVD 
-     description: Search and Statistics
-     url: https://nvd.nist.gov/vuln/search
-     icon: favicon
-   - title: Hunter (Email Hunter)
-     description: Find email addresses in seconds
-     url: https://hunter.io/
-     icon: favicon
+sections:  
+- name: Cyber Tools
+  icon: favicon
+  displayData:
+    itemSize: small
+    sectionLayout: grid
+    itemCountX: 2
+  items:
+  - title: ATT&CK™ Navigator
+    url: https://mitre-attack.github.io/attack-navigator/enterprise/  
+    icon: favicon
+  - title: Browserling
+    description: Live interactive cross-browser testing
+    url: https://www.browserling.com/     
+  - title: Whois Lookup
+    description: Domain Availability & IP Search - DomainTools
+    url: http://whois.domaintools.com/
+    icon: favicon
+  - title: VirusTotal
+    url: https://www.virustotal.com/#/home/upload
+    icon: favicon
+  - title: Image-Maps.com
+    description: Online URL Encoder & Decoder Tool 
+    url: http://www.image-maps.com/tools/url-encoder-and-decoder/  
+    icon: favicon
+  - title: Hybrid Analysis
+    url: https://www.hybrid-analysis.com/
+    icon: favicon
+  - title: urlscan.io
+    description: URL and website scanner
+    url: https://urlscan.io/
+    icon: favicon
+  - title: NVD 
+    description: Search and Statistics
+    url: https://nvd.nist.gov/vuln/search
+    icon: favicon
+  - title: Hunter (Email Hunter)
+    description: Find email addresses in seconds
+    url: https://hunter.io/
+    icon: favicon
      
      
      
