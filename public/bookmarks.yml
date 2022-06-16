@@ -106,9 +106,9 @@ sections:
     description: Live Cyber Threat Map 
     url: https://threatmap.checkpoint.com/
     icon: favicon
-  - title: Akamai ES
+  - title: Akamai
     description: Real-Time Internet Monitor
-    url: https://www.akamai.com/es/es/resources/visualizing-akamai/real-time-web-monitor.jsp?tab=attacks&theme=dark&type=fullscreen
+    url: https://www.akamai.com/internet-station
     icon: favicon
   - title: MAP Kaspersky 
     description: Cyberthreat real-time map
