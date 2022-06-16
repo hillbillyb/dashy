@@ -62,6 +62,9 @@ sections:
     itemSize: small
     sectionLayout: grid
     itemCountX: 2
+    cols: 2
+    collapsed: true
+    cutToHeight: true
     
   items:
   - title: ATT&CK™ Navigator
@@ -102,7 +105,10 @@ sections:
   displayData:
     itemSize: small
     sectionLayout: grid
-    itemCountX: 2  
+    itemCountX: 2
+    cols: 2
+    collapsed: true
+    cutToHeight: true
     
   items:
   - title: Check Point
