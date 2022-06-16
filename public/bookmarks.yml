@@ -4,7 +4,8 @@ pageInfo:
   navLinks:                                                                                                          
     - title: Home                                                                                                    
       path: https://billyb.netlify.app                                                                                
-      target: sametab                                                                                                 
+      target: sametab 
+      
 sections:  
 - name: Cyber News
   icon: favicon
@@ -12,6 +13,7 @@ sections:
     itemSize: small
     sectionLayout: grid
     itemCountX: 2
+    
   items:
   - title: Daniel Miessler
     icon: favicon
@@ -24,7 +26,7 @@ sections:
     icon: favicon
   - title: Adam Shostack
     url: https://adam.shostack.org/blog/
-    icon: generative
+    icon: favicon
   - title: Cybersecurity Insiders
     url: https://www.cybersecurity-insiders.com/
     icon: favicon
@@ -50,6 +52,7 @@ sections:
     description:  Cybersecurity News and Analysis
     url: https://thehackernews.com/
     icon: favicon
+    
 sections:  
 - name: Cyber Tools
   icon: favicon
@@ -57,6 +60,7 @@ sections:
     itemSize: small
     sectionLayout: grid
     itemCountX: 2
+    
   items:
   - title: ATT&CK™ Navigator
     url: https://mitre-attack.github.io/attack-navigator/enterprise/  
