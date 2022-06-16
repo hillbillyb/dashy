@@ -8,6 +8,10 @@ pageInfo:
 sections:  
 - name: Cyber News
   icon: favicon
+  displayData:
+    itemSize: small
+    sectionLayout: grid
+    itemCountX: 2
   items:
   - title: Daniel Miessler
     icon: favicon
