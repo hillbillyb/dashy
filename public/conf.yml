@@ -10,7 +10,10 @@ appConfig:
   backgroundImg: 2400-abstract-futuristic.jpg
   itemsize: small
   iconsize: small
-  hideComponents: settings
+  hideComponents:
+    hideSettings: true
+    hideFooter: true
+    
 
 # Main content - An array of sections, each containing an array of items
 sections:
