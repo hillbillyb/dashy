@@ -57,11 +57,7 @@ sections:
   icon: favicon
   displayData:
     itemSize: small
-    sectionLayout: grid
-    itemCountX: 2
-    cols: 2
     collapsed: true
-    cutToHeight: true
     
   items:
   - title: ATT&CK™ Navigator
@@ -101,11 +97,7 @@ sections:
   icon: favicon
   displayData:
     itemSize: small
-    sectionLayout: grid
-    itemCountX: 2
-    cols: 2
     collapsed: true
-    cutToHeight: true
     
   items:
   - title: Check Point
