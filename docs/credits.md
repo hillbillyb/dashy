@@ -25,6 +25,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hillbillyb">
+            <img src="https://avatars.githubusercontent.com/u/61950141?v=4" width="80;" alt="hillbillyb"/>
+            <br />
+            <sub><b>Hillbillyb</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/EVOTk">
             <img src="https://avatars.githubusercontent.com/u/45015615?v=4" width="80;" alt="EVOTk"/>
             <br />
@@ -44,27 +51,20 @@
             <br />
             <sub><b>Snyk Bot</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/pinarruiz">
             <img src="https://avatars.githubusercontent.com/u/37040888?v=4" width="80;" alt="pinarruiz"/>
             <br />
             <sub><b>Alejandro Pinar Ruiz</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/kashif-se">
             <img src="https://avatars.githubusercontent.com/u/5568138?v=4" width="80;" alt="kashif-se"/>
             <br />
             <sub><b>Kashif Sohail</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hillbillyb">
-            <img src="https://avatars.githubusercontent.com/u/61950141?v=4" width="80;" alt="hillbillyb"/>
-            <br />
-            <sub><b>hillbillyb</b></sub>
         </a>
     </td>
     <td align="center">
